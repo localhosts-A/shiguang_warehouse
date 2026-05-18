@@ -481,3 +481,13 @@ schools:
     name: "南昌航空大学科技学院"
     initial: "N"
     resource_folder: "STCNCHU"
+
+  - id: "CFEC"
+    name: "重庆财经学院"
+    initial: "C"
+    resource_folder: "CFEC"
+
+  - id: "AHZYYGZ"
+    name: "安徽中医药高等专科学校"
+    initial: "A"
+    resource_folder: "AHZYYGZ"
